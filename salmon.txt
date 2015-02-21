@@ -1,3 +1,4 @@
 380 degrees
-cook salmon
+cook salmon 20 minutes
+make sure it's cooked
 done
